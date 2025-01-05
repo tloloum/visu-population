@@ -16,7 +16,6 @@
 
 ```bash
 git clone https://github.com/tloloum/visu-population.git
-```
 cd visu-population
 ```
 
