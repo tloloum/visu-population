@@ -1,7 +1,0 @@
-consommation-annuelle-residentielle-par-adresse  : https://data.enedis.fr/explore/dataset/consommation-annuelle-residentielle-par-adresse/api/
-
-Bade de donnéees nationale des batiments : https://api-portail.bdnb.io/catalog/api/f4905edc-db58-3a3b-a8e5-c5dfc6692ee5
-
-Quartier des communes : https://datahub.bordeaux-metropole.fr/explore/dataset/se_quart_s/information/
-
-
