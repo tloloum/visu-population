@@ -33,3 +33,10 @@ env\Scripts\activate # windows
 ```bash
 pip install -r requirements.txt
 ```
+
+### 4. Lancer Jupyter Notebook
+
+```bash 
+jupyter notebook coord_to_addr.ipynb
+```
+
