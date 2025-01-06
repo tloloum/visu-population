@@ -80,6 +80,12 @@ jupyter notebook coord_to_addr.ipynb
   Données carroyées (200m² et niveau naturel) sur les revenus, la pauvreté et le niveau de vie en 2019.
   Ces données sont issues du dispositif Filosofi.
 
+### 5. API Enedis - Consommation d'électricité
+
+- **Source :** [Enedis - Consommation annuelle résidentielle par adresse](https://data.enedis.fr/explore/dataset/consommation-annuelle-residentielle-par-adresse/api/)
+- **Description :**  
+  API Enedis permettant de récupérer la consommation annuelle d'électricité par adresse.
+
 ### Documentation
 
 - Les variables de chaque jeu de données sont accessibles depuis les liens INSEE ci-dessus.
