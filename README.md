@@ -6,6 +6,7 @@
 
 - **Python** 3.8 ou supérieur.
 - **pip** (outil de gestion des packages Python).
+- **git-lfs** (pour les fichiers volumineux).
 
 ---
 
